@@ -1,0 +1,35 @@
+ {
+	"Tanques":[
+		{"x":1,"y":1,"Capacidad":40,"Nombre":0},
+		{"x":5,"y":1,"Capacidad":30,"Nombre":1},
+		{"x":1,"y":6,"Capacidad":50,"Nombre":2},
+		{"x":5,"y":6,"Capacidad":40,"Nombre":3},
+		{"x":5,"y":9,"Capacidad":80,"Nombre":4},
+		{"x":12,"y":6,"Capacidad":70,"Nombre":5},
+		{"x":12,"y":9,"Capacidad":10,"Nombre":6},
+		{"x":16,"y":6,"Capacidad":40,"Nombre":7},
+		{"x":12,"y":1,"Capacidad":20,"Nombre":8}
+	],
+			
+	"Aristas":[
+		{"Inicio":0,"Fin":1,"Peso":10},
+		{"Inicio":0,"Fin":3,"Peso":7},
+		{"Inicio":3,"Fin":2,"Peso":5},
+		{"Inicio":2,"Fin":4,"Peso":17},
+		{"Inicio":4,"Fin":6,"Peso":7},
+		{"Inicio":3,"Fin":5,"Peso":8},
+		{"Inicio":8,"Fin":5,"Peso":70},
+		{"Inicio":7,"Fin":5,"Peso":7}
+	],
+	
+	"Barrios":[
+		{"x":1,"y":9,"id":0},
+		{"x":1,"y":3,"id":1},
+		{"x":6,"y":1,"id":2},
+		{"x":6,"y":4,"id":3},
+		{"x":7,"y":7,"id":4},
+		{"x":9,"y":7,"id":5},
+		{"x":16,"y":1,"id":6},
+		{"x":16,"y":9,"id":7}
+	]
+}

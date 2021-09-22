@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a6bef33f-9697-49ea-b022-46e6bf0895db" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ftdPuFlopGApsTiSV539xDp8VK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.Ventana">
+    <configuration name="Prueba Generador" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ProyectoEstructuras" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Prueba Generador.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Prueba" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ProyectoEstructuras" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Prueba.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PruebaGrafo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ProyectoEstructuras" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PruebaGrafo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ventana" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ProyectoEstructuras" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ventana.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pruebaB" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ProyectoEstructuras" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pruebaB.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Ventana" />
+        <item itemvalue="Python.PruebaGrafo" />
+        <item itemvalue="Python.Prueba Generador" />
+        <item itemvalue="Python.pruebaB" />
+        <item itemvalue="Python.Prueba" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6bef33f-9697-49ea-b022-46e6bf0895db" name="Default Changelist" comment="" />
+      <created>1597041302591</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597041302591</updated>
+      <workItem from="1597041306295" duration="854000" />
+      <workItem from="1597042192126" duration="341000" />
+      <workItem from="1597042576436" duration="11974000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="371" y="108" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597058237729">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="371" y="108" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.720@0.0.1280.720" timestamp="1597058237729" />
+    <state x="421" y="115" key="FileChooserDialogImpl" timestamp="1597049177787">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="421" y="115" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1597049177787" />
+    <state width="1237" height="146" key="GridCell.Tab.0.bottom" timestamp="1597058722510">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="146" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1597058722510" />
+    <state width="1237" height="146" key="GridCell.Tab.0.center" timestamp="1597058722509">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="146" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1597058722509" />
+    <state width="1237" height="146" key="GridCell.Tab.0.left" timestamp="1597058722509">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="146" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1597058722509" />
+    <state width="1237" height="146" key="GridCell.Tab.0.right" timestamp="1597058722510">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="146" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1597058722510" />
+    <state width="1237" height="220" key="GridCell.Tab.1.bottom" timestamp="1597052425459">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="220" key="GridCell.Tab.1.bottom/0.0.1280.720@0.0.1280.720" timestamp="1597052425459" />
+    <state width="1237" height="220" key="GridCell.Tab.1.center" timestamp="1597052425459">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="220" key="GridCell.Tab.1.center/0.0.1280.720@0.0.1280.720" timestamp="1597052425459" />
+    <state width="1237" height="220" key="GridCell.Tab.1.left" timestamp="1597052425459">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="220" key="GridCell.Tab.1.left/0.0.1280.720@0.0.1280.720" timestamp="1597052425459" />
+    <state width="1237" height="220" key="GridCell.Tab.1.right" timestamp="1597052425459">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="220" key="GridCell.Tab.1.right/0.0.1280.720@0.0.1280.720" timestamp="1597052425459" />
+    <state x="142" y="3" key="SettingsEditor" timestamp="1597048282518">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="142" y="3" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1597048282518" />
+    <state x="93" y="93" width="1095" height="535" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1597058050037">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="93" y="93" width="1095" height="535" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1280.720@0.0.1280.720" timestamp="1597058050037" />
+    <state x="337" y="185" key="com.intellij.ide.util.TipDialog" timestamp="1597042587870">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="337" y="185" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1597042587870" />
+    <state x="336" y="92" width="609" height="536" key="find.popup" timestamp="1597058749856">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="336" y="92" width="609" height="536" key="find.popup/0.0.1280.720@0.0.1280.720" timestamp="1597058749856" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ProyectoEstructuras$Ventana.coverage" NAME="Ventana Coverage Results" MODIFIED="1597058722497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ProyectoEstructuras$PruebaGrafo.coverage" NAME="PruebaGrafo Coverage Results" MODIFIED="1597057435369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ProyectoEstructuras$pruebaB.coverage" NAME="pruebaB Coverage Results" MODIFIED="1597050432373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ProyectoEstructuras$Prueba_Generador.coverage" NAME="Prueba Generador Coverage Results" MODIFIED="1597053550750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ProyectoEstructuras$Prueba.coverage" NAME="Prueba Coverage Results" MODIFIED="1597049636411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
